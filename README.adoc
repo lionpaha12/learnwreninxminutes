@@ -1,2 +1,6 @@
 = learnwreninxminutes
+:wren-doc: http://wren.io/syntax.html
+
 Wren docs for LearnXinYMinutes
+
+:wren-doc:
