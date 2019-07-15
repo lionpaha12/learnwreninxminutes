@@ -3,4 +3,4 @@
 
 Wren docs for LearnXinYMinutes
 
-wren-doc
+:wren-doc
