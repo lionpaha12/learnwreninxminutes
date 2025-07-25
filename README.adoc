@@ -1,6 +1,1 @@
-= learnwreninxminutes
-:wren-doc: http://wren.io/syntax.html
 
-Wren docs for LearnXinYMinutes
-
-http://wren.io/syntax.html[syntax]
